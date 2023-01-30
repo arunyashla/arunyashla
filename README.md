@@ -19,9 +19,11 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=arunyashla/FLIGHT-PRICE-PREDICTION)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arunyashla)](https://github.com/arunyashla/github-profile-trophy)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arunyashla&theme=blue-green) , ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arunyashla&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arunyashla&theme=gruvbox)](https://github.com/arunyashla/github-profile-trophy)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arunyashla&theme=blue-green) , ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arunyashla&show_icons=true&theme=blue-green)
 
 
 ### :fire: My Stats :
