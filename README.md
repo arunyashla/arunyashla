@@ -6,6 +6,10 @@
 -  Connect with Youtube channel: [https://www.youtube.com/@CodeWithArunyashla]
 
 
+![GitHub Contributors Image](https://img.shields.io/badge/%20Jupyter%20Notebook%20-expert-red)
+
+![GitHub Contributors Image](https://img.shields.io/badge/%20python%20-expert-blue)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arunyashla&show_icons=true)
 ---
 
